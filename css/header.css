@@ -1,0 +1,27 @@
+/* CSS Document */
+
+/** CSS for header starts*/
+
+header .logo {
+	width: 100%;
+	text-align: center;
+}
+
+header .logo img {
+	width: 8.5%;
+	margin-top: 0.1%;
+}
+
+header .title {
+	text-align: center;
+	color: darkgreen;
+	margin-top: -1%;
+}
+
+header .title h1 {
+	letter-spacing: 10px;
+	font-weight: bold;
+	font-size: 160%;
+}
+
+/** CSS for header ends*/

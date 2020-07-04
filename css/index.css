@@ -1,0 +1,66 @@
+/* CSS Document */
+
+* {
+	font-family: Arial;
+}
+
+p {
+	text-align: justify;
+}
+
+#imgColumn, #contentColumn, #serviceColumn {
+	padding: 1%;
+	background-color: whitesmoke;
+
+}
+
+#imgColumn {
+	border: 1px solid #307326;
+	border-top: none;
+}
+
+#serviceColumn {
+	border: 1px solid #307326;
+	border-top: none;
+}
+
+#imgColumn .column img {
+	width: 100%;
+	margin-bottom: 1.4%;
+}
+
+#shopImg {
+	text-align: center;
+}
+
+#contentColumn .column img {
+	width: 80%;
+}
+
+#contentColumn .column .about {
+	margin-top: 10px;
+	background-color: #9CCC65;
+	border: 1px solid #307326;
+}
+
+#contentColumn .column .about p {
+	padding: 10px;
+}
+
+#serviceColumn .column .service {
+	background-color: #9CCC65;
+	border: 1px solid #307326;
+	padding: 10px;
+	font-size: ;
+
+}
+
+#visit {
+	border-radius: 50%;
+}
+
+#visit p {
+		text-align: center;
+}
+
+/** CSS ends*/

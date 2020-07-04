@@ -1,0 +1,16 @@
+/* CSS Document */
+
+/** CSS for footer starts*/
+
+footer {
+	margin-top: 10px;
+}
+
+footer .line {
+	width: 100%;
+	padding: 10px;
+	background-color: #9CCC65;
+	border-top: 1px solid #307326; 
+}
+
+/** CSS for footer ends*/
